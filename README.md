@@ -1,5 +1,6 @@
 <meta http-equiv="content-type" content="text/html;charset=utf-8">
-<p> 음 안녕하세요! ;ㅁ; 제가 좋아하는 노래가 있는데 그 노래를 홍보하려고 진짜 급하게 만들어 봤어요! (와 너무 간단해서 1시간도 안 걸렸다는... 그렇다는...) 그다지 유명하지 않거든요 ㅠㅠ 노래는 유튜브에 치시면 나와요~ 24분짜리 영상이에요! css도 안 하고... 그래도 예쁘게 봐주세용 ㅎㅎ(뭘까)
+<p> 음 안녕하세요! ;ㅁ; 제가 좋아하는 노래가 있는데 그 노래를 홍보하려고 진짜 급하게 만들어 봤어요! css도 안 하고...(와 너무 간단해서 1시간도 안 걸렸다는... 그렇다는...) 그다지 유명하지 않거든요 ㅠㅠ 노래는 유튜브에 치시면 원본이 나와요~ 24분짜리 영상이에요! 예쁘게 봐주세용 ㅎㅎ(뭘까)
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/w7VjxlZ1AME" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <h1> 보컬로이드 유니 - 24시간의 교향곡 가사 </h1>
 <p> .
 .
@@ -185,7 +186,3 @@
 <p> <i> 모든 선율이 여기 끝에서 가장 장대히 완결되고
 <p> <i> 내 교향곡은 바로 이 순간 시작되었다  </i> </p>
 <p> <i> 보라 세상아 나의 우주가 여기 있었다  </i> </p>
-  
-  
-  
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/w7VjxlZ1AME" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
