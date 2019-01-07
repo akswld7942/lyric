@@ -185,7 +185,7 @@
 <p> <i> 모든 선율이 여기 끝에서 가장 장대히 완결되고
 <p> <i> 내 교향곡은 바로 이 순간 시작되었다  </i> </p>
 <p> <i> 보라 세상아 나의 우주가 여기 있었다  </i> </p>
-  <p> </p>
-  <p> </p>
-  <p> </p>
+  
+  
+  
   <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/w7VjxlZ1AME" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
